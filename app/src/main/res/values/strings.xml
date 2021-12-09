@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Ayo Ngadu</string>
+  <string name="app_description">Ayo Ngadu merupakan sebuah aplikasi berbasis Android yang dapat digunakan untuk masyarakat sebuah Desa untuk melalukan pengaduan mengenai kondisi Desa atau pemanggilan bantuan kepada Pemerintah Desa</string>
+  <string name="desa_description">Desa atau udik menurut definisi "universal", adalah sebuah aglomerasi pemukiman di area perdesaan (rural). Di Indonesia, istilah desa adalah pembagian wilayah administratif di Indonesia di bawah kecamatan.</string>
+  <string name="mapbox_access_token">pk.eyJ1IjoidGFzdGV0cmFzbGV4IiwiYSI6ImNrdXk1dGU0azAyMHMydnFpZjZxOWRnejYifQ.GwHr3yBxtfjj5youpI-zSw</string>
+</resources>

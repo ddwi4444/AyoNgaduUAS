@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216727755620",
+    "project_id": "ayo-ngadu",
+    "storage_bucket": "ayo-ngadu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216727755620:android:6da0e429f017ec7e6d7871",
+        "android_client_info": {
+          "package_name": "com.example.ayongadu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216727755620-lomceao83lt7eun8vpefbo7u9ed1rogc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayongadu",
+            "certificate_hash": "01be828aabe35565e21380046175e07aafebb8c1"
+          }
+        },
+        {
+          "client_id": "216727755620-g3np3i0l2qrup63muf5d0ha5hihaurp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1KLi6oyWe688n5Sph-d7oEZdIzUuviHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216727755620-g3np3i0l2qrup63muf5d0ha5hihaurp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
